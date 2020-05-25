@@ -1,0 +1,11 @@
+.BurgerBuilder{
+    background-color: #22223b;
+    width: 100%;
+}
+
+@media(min-width: 500px){
+    .BurgerBuilder{
+        display: flex;
+        width: 100%; 
+    }
+}
